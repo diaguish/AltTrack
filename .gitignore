@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+
+# Données personnelles
+candidatures.csv
+
+# Config sensible (mots de passe Gmail, etc.)
+config.py
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
